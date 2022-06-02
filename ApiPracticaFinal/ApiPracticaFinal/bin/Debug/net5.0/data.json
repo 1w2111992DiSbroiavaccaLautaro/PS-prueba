@@ -1,0 +1,36 @@
+[
+  {
+    "name": "CelebHeights",
+    "heading": "Histogram and table of 10 celebrities",
+    "paragraph": "Here are the histogram and the table of 10 celebrities.",
+    "attach": true,
+    "table": {
+      "records": [
+        {
+          "values": [
+            {
+              "header": "Listado",
+              "value": "Id"
+            },
+            {
+              "header": "Datos",
+              "value": "id"
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "header": "Listado",
+              "value": "Titulo"
+            },
+            {
+              "header": "Datos",
+              "value": "titulo"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
