@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0dvbnYPOsWQRd0neNPk2gxVMcovgOpCKEtEVsWSpI9YDt6kQi2Ij2ul9GWQSezaf3r9E0ritCh3TbBxQuYD/gg==",
+  "dgSpecHash": "ELtmr1pPWM1pfUW6GHiwfoJUieqGAcPHShrRhbizWgjhnvcVFh706rOAV1boFca1J9W2uoEqpbLJ8/srIN9kgw==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos GitHub\\PS Heroku\\practica-supervisada\\ApiPracticaFinal\\ApiPracticaFinal\\ApiPracticaFinal.csproj",
+  "projectFilePath": "C:\\Proyectos GitHub\\PS-Prueba\\PS-prueba\\ApiPracticaFinal\\ApiPracticaFinal\\ApiPracticaFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win\\.nuget\\packages\\aspose.words\\22.5.0\\aspose.words.22.5.0.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

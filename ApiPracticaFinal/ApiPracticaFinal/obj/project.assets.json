@@ -3283,11 +3283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos GitHub\\PS Heroku\\practica-supervisada\\ApiPracticaFinal\\ApiPracticaFinal\\ApiPracticaFinal.csproj",
+      "projectUniqueName": "C:\\Proyectos GitHub\\PS-Prueba\\PS-prueba\\ApiPracticaFinal\\ApiPracticaFinal\\ApiPracticaFinal.csproj",
       "projectName": "ApiPracticaFinal",
-      "projectPath": "C:\\Proyectos GitHub\\PS Heroku\\practica-supervisada\\ApiPracticaFinal\\ApiPracticaFinal\\ApiPracticaFinal.csproj",
+      "projectPath": "C:\\Proyectos GitHub\\PS-Prueba\\PS-prueba\\ApiPracticaFinal\\ApiPracticaFinal\\ApiPracticaFinal.csproj",
       "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos GitHub\\PS Heroku\\practica-supervisada\\ApiPracticaFinal\\ApiPracticaFinal\\obj\\",
+      "outputPath": "C:\\Proyectos GitHub\\PS-Prueba\\PS-prueba\\ApiPracticaFinal\\ApiPracticaFinal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
